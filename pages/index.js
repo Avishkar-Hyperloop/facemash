@@ -36,6 +36,9 @@ export default function Home() {
       <h2 className="text-center p-4 bg-gray-800 text-white font-semibold text-2xl">
         Choose one of the two safety equipment options based on what you feel is more important.
       </h2>
+      <p className="text-center p-4 bg-gray-800 text-white font-medium text-lg">
+        Safety-Showdown is an interactive platform where you can compare different safety equipment and vote for the one you think is more essential. Your votes help us understand public opinion on safety priorities.
+      </p>
       <div
         style={{ display: "flex", justifyContent: "space-around" }}
         className="bg-gray-900 gap-4 min-h-screen pt-6 flex flex-col items-center justify-center sm:flex-row w-full"
